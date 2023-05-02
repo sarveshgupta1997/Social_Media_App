@@ -193,7 +193,7 @@ To run this project, you will need to add the following environment variables to
 
 ## Demo
 
-[https://strange-plum-swallow.cyclic.app/](https://strange-plum-swallow.cyclic.app/)
+[https://social-media-app-x2xt.onrender.com/](https://social-media-app-x2xt.onrender.com/)
 
 
 ## Authors
